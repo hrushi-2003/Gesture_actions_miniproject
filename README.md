@@ -1,1 +1,1 @@
-<h2>THIS IS HAND GESTURE PROJECT</h2>
+<h2 style="font-family="verdana"">THIS IS HAND GESTURE PROJECT</h2>
